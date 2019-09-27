@@ -1,5 +1,7 @@
-﻿- Dynamically Allocate File Padding
+- Dynamically Allocate File Padding
 
 - Create Structure From Output
 
 - Add File Name To Struct
+
+- Making remote changes
