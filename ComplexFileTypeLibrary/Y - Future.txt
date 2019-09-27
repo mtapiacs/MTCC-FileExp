@@ -3,5 +3,3 @@
 - Create Structure From Output
 
 - Add File Name To Struct
-
-- Finishing touches
