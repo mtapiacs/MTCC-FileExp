@@ -3,3 +3,5 @@
 - Create Structure From Output
 
 - Add File Name To Struct instead of index
+
+- Allow longer extensions for files
