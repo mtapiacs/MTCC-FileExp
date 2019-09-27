@@ -3,7 +3,6 @@ C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileT
 C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileTypeLibrary\bin\Debug\netcoreapp2.1\ComplexFileTypeLibrary.runtimeconfig.dev.json
 C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileTypeLibrary\bin\Debug\netcoreapp2.1\ComplexFileTypeLibrary.dll
 C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileTypeLibrary\bin\Debug\netcoreapp2.1\ComplexFileTypeLibrary.pdb
-C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileTypeLibrary\obj\Debug\netcoreapp2.1\ComplexFileTypeLibrary.csprojAssemblyReference.cache
 C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileTypeLibrary\obj\Debug\netcoreapp2.1\ComplexFileTypeLibrary.csproj.CoreCompileInputs.cache
 C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileTypeLibrary\obj\Debug\netcoreapp2.1\ComplexFileTypeLibrary.AssemblyInfoInputs.cache
 C:\Users\mtapi\source\repos\Cairn-University\ComplexFileTypeLibrary\ComplexFileTypeLibrary\obj\Debug\netcoreapp2.1\ComplexFileTypeLibrary.AssemblyInfo.cs
